@@ -1,0 +1,1 @@
+This repository serves as a personal knowledge base and a reference for anyone interested in understanding various rendering techniques. It documents concepts, algorithms, code snippets, and visual examples encountered while exploring these techniques, with a particular focus on real-time rendering.
